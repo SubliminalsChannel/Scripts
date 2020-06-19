@@ -1,5 +1,5 @@
-**Aegis Avenger Stalker**
-Loadout Guide 
+## Aegis Avenger Stalker
+Loadout Guide
 Preface
 I'm going to give you my recommendations on how to loadout your Aegis Avenger Stalker, and we're starting right now.
 Introduction
