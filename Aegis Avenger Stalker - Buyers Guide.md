@@ -2,7 +2,8 @@
 ### Loadout Guide
 ## Preface
 I'm going to give you my recommendations on how to loadout your Aegis Avenger Stalker, and we're starting right now.
-Introduction
+
+## Introduction
 Welcome to "A Star Citizen’s Loadout Guide" What's up Citizens, this is SubliminaL here and In this guide we will discuss my recommendations for both weapons and components for your Aegis Avenger Stalker. The Stalker’s default loadout isn’t very good so we’ve got our work cut out for us. My full review of the Stalker is coming soon, when it's finished, you can find it in the info card above and on the end screen. Special thanks for all of the support from Patrons and Channel Members, it takes a while to make one of these and your support is appreciated. If this is our first time meeting, welcome, my name is subliminal and my passions are Star Citizen and content creation. Be sure to check out some of my other star citizen content, and consider subscribing. If you're considering becoming a citizen or know someone who is, be sure to use my referral link in the description or the code on screen to get 5000aUEC in the persistent universe, no pledge necessary. Enough with the formalities, let's get to it.
 
 ## Overview
