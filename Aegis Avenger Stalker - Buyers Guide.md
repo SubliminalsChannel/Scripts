@@ -3,70 +3,62 @@
 
 ### Preface
 I'm going to tell you everything you need to know before buying the Aegis Avenger Stalker and we’re starting right now.
+
 ### Introduction
-Welcome to "A Star Citizen’s Buyer’s Guide" What's up Citizens, this is SubliminaL here and today we will be discussing the features, functions, and benefits of the Aegis Avenger Stalker. And we’ll compare those features amongst competing ships, so you can make an informed buying decision. In this review, I’ll cover a brief overview, compare stats, review pros and cons, and finish up with my thoughts on the Aegis Avenger Stalker. If you haven't seen it already after this review check out my loadout guide for the Avenger Stalker in the info card above. Special thanks for all of the support from Patrons and Channel Members, it takes a while to make one of these and your support is appreciated. If this is our first time meeting, Welcome, my name is subliminal and my passions are Star Citizen and content creation. Be sure to check out some of my other reviews in this series, and consider subscribing. Remember to check the pinned comment below for Corrections and Afterthoughts. Enough with the formalities, let's get to it.
-New citizens, use my referral link on screen or in the description to reserve your 5000aUEC in the persistent universe, no pledge necessary.
+Welcome to "A Star Citizen’s Buyer’s Guide" What's up Citizens, this is SubliminaL here and today we will be discussing the features, functions, and benefits of the Aegis Avenger Stalker. And we’ll compare those features amongst competing ships, so you can make an informed buying decision. In this review, I’ll cover a brief overview, take a tour, compare stats, review pros and cons, and finish up with my thoughts on the Aegis Avenger Stalker. If you haven't seen it already after this review check out my loadout guide for the Avenger Stalker in the info card above, and on the end screen. Special thanks for all of the support from Patrons and Channel Members, it takes a while to make one of these and your support is appreciated. If this is our first time meeting, Welcome, my name is subliminal and my passions are Star Citizen and content creation. Be sure to check out some of my other reviews in this series, and consider subscribing. New citizens, use my referral link on screen or in the description to reserve your 5000aUEC in the persistent universe, no pledge necessary.  Enough with the formalities, let's get to it.
 
-#### Overview
-The Aegis Avenger Stalker is a small two-seat combat ship utilized by the Aegis to provide protection and fly alongside the Merchantman, so its design includes a much improved range over other fighters of similar size due to its fuel intakes. Its design features both Xi’an thrusters, Tevarin shields, and four Singe tachyon cannons. As a result, with a light-weight hull, it allows the ship to be agile and fast. Though cargo space is limited, the Avenger Stalker features modest accommodations for its crew and provides easy access to components.
 
-Although the shape, hull, and design of the Avenger Stalker remains consistent across all Avenger Stalker models, features can be different from different manufacturers. These features are based on the Human export model manufactured by Jannue Mon-Li.
+### Overview
+The Aegis Avenger Stalker is a civilian light fighter that is popular among bounty hunters. It was initially the frontline carrier ship for the UEE military, then it had a long and storied career as the standard patrol craft of the UEE Advocacy. Utilizing its cargo hold for prisoner transport, the Avenger features a sturdy, reliable hull and the capacity for larger-than-expected engine mounts. The Stalker is manufactured by Aegis Dynamics, a Human spacecraft manufacturer based on Cestulus. Today, the company is a major manufacturer of both civilian and military crafts. The Avenger has 3 other variants, the EMP Warfare Warlock, the Base Lite Cargo Hauler Titan, and the Titans Limited Edition Variant the Renegade. As of today, the Stalker is for sale, and upgrade on the pledge store for $60. And is also available in the “Avenger Stalker Starter Pack” game package for $75. It is also available to citizens who reach 25 Referral points. Speaking of RP points thank you guys for using and sharing my code. It saved me the cost of having purchase this for a review. Because I know people will ask ships labeled for arena commander appear in the retrieval console but not in the RSI hangar.
 
-The Avenger Stalker Editions Include, the base you'll be seeing today, this sweet looking Pirate Edition, and the hideous Limited Edition Best In Show sold during the 2949 International Aerospace Expo.  The only difference between the three is the paint.
-
-As of today, the Avenger Stalker is for sale on the pledge store for $220 Standard, and $200 Warbond. It is available as a loaner to Aegis Merchantman Owners alongside the Drake Caterpillar, By the way this is a great package and comes highly recommended by me the price for this will surely go up the next time this is sold. Speaking of loaners if you own a Avenger Stalker you get a Sabre as a loaner. I think this is due to the Singe bug but i'm not 100% sure. The Aegis Avenger Stalker is not available for sale in game. Now that we know a little bit more about the Avenger Stalker, let's take a tour.
+[comment]: <> (It is available as a loaner to Aegis Merchantman Owners alongside the Drake Caterpillar, By the way this is a great package)
+And The Stalker is available for sale at Lorville’s new deal for over 880,000 aUEC. Now that you know a little bit more about the Aegis Avenger Stalker let's take a tour.
 
 ### Exterior
-If you’d like to skip this tour, the timestamp is on screen and in the description. Aesthetically the Avenger Stalker is a beautiful ship. I love the gold foil look. It looks like something a tomb raider might find on a wall in some ruin. On the wing tips here we have this bubble light that could be a sensor or maybe like some sort of communication device via its pulsating light. I'm not sure, let me know in the comments if you know what these are for. This is not the stock loadout by the way. Under the arms we have size 3 hardpoints that come with gimbals stock. Here you can see this awesome Aegis design style that makes you think the ship might be alive. It has very organic lines. Underneath we have 2 more size 3 hardpoints also gimballed. Further toward the back we have 2 size 2 missile racks. Again these missiles are from my loadout. This design style is so unique. Here you can see the black underside looks kinda like carbon fiber. More of that organic feel here with these legs, look at the feet. Around back we have its dual main thrusters. And from here we can see why it has the nickname space crab.
+If you'd like to skip this tour the time stamp is on screen and in the description. On the nose you’ll notice the massive size 4 hardpoint with a gimballed size 3 gatling equipped. Above and to the right of this we have direct access to the cockpit. Under the wings we can see a gimballed size 2 laser cannon and a pair of size 2 missiles. Walking around the winglets we see the blue accent lighting that I’m quite a fan of. Around the back we have the cargo hold. Other than a different pair of missiles the starboard side is identical to the port side.
 
 ### Interior
-Let's step up inside. This egress point seems like it would be easy to defend. On the starboard slide we have a bed to log out in. The co-pilot gun rack can be found here. Here the organic look is cranked to 100. I feel like I've been  swallowed up. I think components will be stored here when they become physicalized. The portside also has a bed to log out in. Let's step up to the pilot seat. I wonder if you right hand drivers would call this the co-pilot seat. Here we can see the building block UI is not in yet. But we should be getting that next patch. It has a 2d radar and 4 MFDs. The Avenger Stalker does have an ejection feature. Almost forgot the pilot has a gun rack as well. The co-pilot seat is identical to the pilot seat. Just an FYI you can fly this ship from either one of the seats there really is no difference.
+Let's climb inside. The cargo hold of the Stalker trades its SCU cargo space for 6 holding cells. Past the cargo hold you have the living quarters with a bed on the port side and some spaceship stuff on the starboard side. In between the living quarters and flight deck, there are some unmarked component housings. Let's head toward the flight deck. The Stalker does not have the new building blocks UI HUD yet. There are 3 MFDs and a 2D Radar. The stalker does feature an ejection system. And it has an exit straight from the flight deck.
 
 ### Comparison
-Now that we’ve taken a tour, let's see how it compares to other ships you might be considering. For comparison, I have selected 10 ships, mostly other light fighters. The Google Sheet Document with the data is linked in the description.
+Now that we’ve taken a tour, let's see how it compares to other ships you might be considering. For comparison, I have selected 10 ships, all of the pertinent avenger variants, popular light fighters, and bounty hunting ships. The Google Sheet Document with the data is linked in the description.
 
-The Avenger Stalker weighs in at over 78,000kg | 8th Place
-It fits in at 34m in length |9th Place
-Toats 0scu of Cargo| Ties in Last with most of the ships on this list.
-Has a Max Crew Size of 2| Ties in 2nd Place
-Carries 2,750qfu | 1st Place
-It cruises by with an SCM speed of 203m/s | 6th Place
-It strolls by with a Max Speed of 1,200m/s |7th Place
-It has a Maximum Pitch Rate of 65d/s | Ties 5th Place
-It has a Maximum Yaw Rate of 65d/s as well | 5th Place
-And It has a Maximum Roll Rate of only 128d/s | 7th Place
-It has a Total Hull HP of  over 7,500 | 5th place
-It shoots peas with a Default Pilot DPS of 908 | 9th Place Checkout my loadout guide to fix this
-The Cutlass Black is the only ship on this list with a turret.
-It shoots its way through with a Default Turret DPS of 2,072 | 6th Place
-It slings pooh with a combined missile payload of almost 15,000 | Ties 7th Place
-And the Aegis Avenger Stalker is not available for sale in game.
-And the Avenger Stalker is available for sale in-game for around 4,700,000aUEC | And takes the 5th spot.
+* The Avenger Stalker weighs in at over 50,000kg | 5th Place
+* It fits in at 23m in length | Ties in 5th Place with the avenger series
+* Totes 0scu of Cargo | Ties in Last with half of the ships on this list
+* Has a Max Crew Size of 1| Ties in Last place with most of the ships on this list
+* Carries 583qfu | Ties in Last place again with everything except the cutty series
+* It cruises by with an SCM speed of 184m/s | 7th Place
+* It blazes by with a Max Speed of 1,307m/s | 2nd Place
+* It has a Maximum Pitch Rate of 65d/s | 4th Place
+* It has a Maximum Yaw Rate of 65d/s as well | 4h Place
+* And It has a Maximum Roll Rate of 120d/s | Ties in 6th Place
+* It has a Total Hull HP of just over 6,000 | Ties in 6th place
+* It shoots peas with a Default Pilot DPS of 908 | Ties in last place, Checkout my loadout guide to fix this
+* The cutty series are the only ships on this list with turrets.
+* It slings pooh with a combined missile payload of over 14,000 | 9th Place
+* And the Avenger Stalker is available for sale in-game for almost 900,000aUEC | And takes the 2nd spot.
 
 ### Pros vs Cons
 Alright let's weigh some of the pros and cons
 ###### I would say its pros are
-* It has room for, mission boxes, 1 friend as a co-pilot, and Lots of people in the cabin
-* Amenities like a two beds to log out in and weapon racks
-It has a massive amount of quantum fuel capacity, so you can equip the less efficient but fast VK-00 and still make it from one end of stanton to the other in one tank.
-* Stock loadout is pretty good there isn't much that needs to be changed.
-Its damage potential is pretty good as well we've got 4 size three hardpoints that in line with the sabre.
-* It's also great for box missions because of its size and design. You could pull into a hangar and fly right up to the door.
-* And if you haven't seen my loadout guide. One of the best things about the Avenger Stalker is its Sukoran shield generator. It has a 100% minimum physical absorption. This means that even with the shield penetrating ballistic fire the shields have to be brought down completely in order for your hull to take damage. This is at the cost of a pretty long 18s damage regen delay however adapting your playstyle to this shield can produce some great results. Also if you don't like that playstyle and go with something like the FR-76 you can put that Sukoran on a freelancer or other ship to take advantage of that property.
+* Obviously Its blazing fast max speed
+* Its Pitch and Yaw rates are decent
+* It has Space to hold passengers and mission boxes. You can even store them in the prisoner cells to ensure they dont fall out
+* It has a bed to log out in. But in the current state of the game when you come back you may be locked in the cabin. I CTD'd and had this happened and I just waited a few min and the ships doors became operational again. ha I was a prisoner in my own poisoner ship
+* Has 2 exits for added flexibility, this is great if you need to get our in a hurry or get in from the front
+* It has great damage potential with the size 4 hardpoint on the nose, especially when 3.10 makes fixed weapons viable again.
 ###### For cons, I'd say...
-* Its speed now I won't give it a con for each speed metric because to be honest it's not slow by any means however it is not fast either. It's the middle of the road for everything. Actually that roll rate is pretty bad.
-* It’s co-pilot seat is a bit disappointing. It doesn't have the ability for the co pilot to take over half the weapons. Your co-pilot would basically serve as an engineer. Unless you need to poop I guess.
-* The view from the pilot seat while in flight mode takes up a large portion of the screen. Let me know if this bothers you as well.
-* This is a big one. I talked about this in my loadout guide extensively. Its default weapons the Singe’s are pretty unique however they are bugged at the moment rendering them useless sometimes.
-* Its missile payload is also disappointing with just 4 size 2 missiles. I would have thought it could carry more at its size.
-* That brings me to the next one. Its top and bottom cross section is pretty but so it can be easy to hit from those angles.
+* Although its max speed is pretty fast its SCM speed is quite low this means if you travel over that speed your coolers and thrusters will overheat sooner and cause degradation when that comes into the game. Further more in the upcoming 3.10 patch when SCM speed will put the least amount of strain on your thrusters you will be incentivized to stay under this speed to be most effective in combat.
+* Its missile payload is pretty disappointing with just 4 size 2 missiles
+* And If you are considering this for a starter ship there is 0 Cargo space, vs the base model titan's 8 scu.
 
 
 ### My Thoughts
-Alright so SubliminaL what are your thoughts? There are alot of great things to say about the Avenger Stalker. You get a sabre as a temporary loaner, you get a really unique shield generator that you can use on the Avenger Stalker or any ship that fits a size 2 shield gen. Combine that with a FR-76 on a freelancer MIS and oooohhhh boy. And that quantum fuel tank. I can finally put that VK-00 on something. But it's also got a lot going against it. Its very unique weapons don't work, if they did they would be pretty awesome. And when you take them off they are gone until you do an account reset. They call it a light fighter but it handles like a medium fighter. And could definitely hold twice the missiles, but maybe that's balance. But with all of the issues it has I still love this ship. It's great to fly around the PU and do bounty hunter missions, exploring, box missions, showing a new player around the verse. Now I'm sure a lot of you are going to wonder if subliminal is this better than a sabre? Absolutely not. It's way too slow. It will get eaten alive by a gladius or arrow with a good pilot. Also in the future when the singe’s are fixed and fixed weapons are fixed, if they don't add the size three singe’s to stores you won't be able to take advantage of them because you'll need to use fixed weapons to be competitive. But with all that said due to everything I've mentioned i'll be keeping the Aegis in my fleet for the foreseeable future. I'll still have a sabre, sure it's not the one with the sexy paint job but it will do, and I get to play with the sukoran. Win win!
+Alright so SubliminaL what are your thoughts? I’ll just get straight to the point. There is absolutely no reason to own this ship right now. When a player can profit from taking live bounties it will be a totally different situation. Now you may be wondering why i'm saying this when this ship is better than the avenger titan in almost every way except one. That is its lack of cargo space. And if you want to give that up to add to your combat abilities then this would serve it purpose well. However the reason why I don't think anyone needs to own this ship in the games current state has nothing to do with the Stalker but the next and final variant of the avenger series the Warlock. The warlock has almost the same stats as the Stalker but instead of losing the cargo space for currently useless prisoner cells you gain an EMP. Adding a whole new dynamic to your gameplay. Now when we have the full bounty hunting gameplay loop implemented into the game the stalker will be an awesome must have ship if you want to get into that gameplay especially if you don't want to break the bank. If you are outgrowing the combat capabilities of your avenger titan, then look toward the 325a. You will only loose 4scu of cargo, gain more amenities, keep the same type of firepower, And excel at every other speed and combat metric over the titan. Its a win win.
 
 ### Outro
-New Citizens please remember to use the referral code on screen and in the description it helps out the channel and gets you 5,000 aUEC. Those are my thoughts, let me hear yours down in the comments. If you haven't already check out my loadout guide for the Avenger Stalker here? If you've enjoyed this review check out more of my content. If you'd like there are 6 ways to support the channel, #1 you can smash that like button. #2 you can share this content with someone who may enjoy it. #3 you can check out my "locations of Stanton" collection over at Displate #4 you can subscribe and turn on notifications by clicking the circle here. #5 you can become a channel member by clicking the join button below. And #6 if you're feeling generous, consider becoming a patron. Some Pledge perks can be seen here, Including desktop versions of my locations of stanton collection available to all patrons. If not your viewership is greatly appreciated. Until nextime Citizens, I'll see you in the verse.
+Those are my thoughts, let me hear yours down in the comments. If you haven't already check out my loadout guide for the Avenger Stalker here? New citizens, use my referral link on screen or in the description to reserve your 5000aUEC in the persistent universe, no pledge necessary. If you've enjoyed this review check out more of my content. If you'd like there are 6 ways to support the channel, #1 you can smash that like button. #2 you can share this content with someone who may enjoy it. #3 you can check out my "locations of Stanton" collection over at Displate #4 you can subscribe and turn on notifications by clicking the circle here. #5 you can become a channel member by clicking the join button below. And #6 if you're feeling generous, consider becoming a patron. Some Pledge perks can be seen here, Including desktop versions of my locations of stanton collection available to all patrons. If not your viewership is greatly appreciated. Until nextime Citizens, I'll see you in the verse.
 
 ### Tags
 A Star Citizens Ship Buyers Guide,Aegis Avenger Stalker,Aegis Avenger Stalker Review,Aegis Avenger Stalker Review Star Citizen,Aegis Avenger Stalker Star Citizen,Star Citizen Aegis Avenger Stalker,star citizen Aegis Avenger Stalker review,Aegis Avenger Stalker 3.9,Aegis Avenger Stalker tour,Aegis Avenger Stalker Walkthrough,Aegis Avenger Stalker renegade,ship tour,star citizen review,ship guide,star citizen,Aegis,3.9, Star Citizen 3.9, Star Citizen 3.9, Aegis Avenger Stalker
