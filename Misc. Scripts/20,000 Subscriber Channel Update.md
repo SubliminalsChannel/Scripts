@@ -1,8 +1,8 @@
 # 20,000 Subscriber Channel Update
 ## Preface
-** Shicked Face**
-I'm going to tell you everything you, nah i'm just kidding.
-Introduction
+*Shocked Face*
+
+##Introduction
 I’m doing something a little different to thank you guys today. If you're watching this the channel reached 10k subscribers today. I want to thank all of my current and past patrons, it's not much but it's great to see this support from the community. To my viewers I just couldn't be more grateful to you guys. Your views, like button smashing, comments, shares, and subscriptions have helped the channel grow tremendously. This is a milestone for us all. We are all facing some pretty tough times right now, this channel has been a gateway for me to express my creativity and passions. I’m not working and stuck in the house, as many of us are, and since my son's daycare is closed I would literally be driven crazy by Baby Shark if I didn't have something to work on. And I hope you guys get something out of watching my videos. I want to quickly go over some of the channel's achievements over the last few months, go over some changes I have made to the buyers guide series, and finish up with future plans I have and how you can help shape future content.
 Achievements
 We posted 9 Videos 
