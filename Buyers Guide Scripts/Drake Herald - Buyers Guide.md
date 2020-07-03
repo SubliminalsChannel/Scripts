@@ -1,4 +1,4 @@
-# Drake Herald
+most likely# Drake Herald
 ## A Star Citizen's Buyer's Guide
 
 ### Preface
@@ -36,8 +36,8 @@ Now that we’ve taken a tour, let's see how it compares to other ships you migh
 * Carries 583qfu | Ties in last again
 * It cruises by with an SCM speed of 174m/s | Third Place
 * It blazes by with a Max Speed of 1,361m/s | This is the fastest afterburner speed of any ship currently in the verse
-* But It has a Maximum Pitch Rate of 48d/s | 7th Place These are just a little bit faster than the freelancer DUR
-* It has a Maximum Yaw Rate of 48d/s as well | 6th Place
+* But It has a Maximum Pitch Rate of 48d/s | 7th Place
+* It has a Maximum Yaw Rate of 48d/s as well | 6th Place These are just a little bit faster than the freelancer DUR
 * And It has a Maximum Roll Rate of 72d/s | And just comes in dead last
 * It has a Total Hull HP of just over 5,500 | 8th Place
 * It shoots peas with a Default Pilot DPS of 744 | 6th place
@@ -61,11 +61,11 @@ Alright let's weigh some of the pros and cons
 * I know i mentioned its missile payload as decent but its not even close to its concept. And to add insult to injury the missile racks can't be swapped out for ones that hold larger missiles.
 
 ### My Thoughts
-If you like to skip this RANT the time stamp is on screen. This is the only flight ready JPG ship. It has absolutely no use right now. I built a stealth loadout for it thinking It could be used to smuggle boxes or sneak up and cause a distraction but even with its super low EM OF 700ish its IR of over 6,000 makes it visible from space. This may be accurate considering its massive thruster but it does have a stealthy hull appearance. 
-I've heard commenters say that ships handle like bricks and until this it was just a figure of speech. This actually does handle exactly like how I would expect a giant rocket propelled brick would fly. Look at this. I am not stroking my T-1600M I promise. And if you are considering taking it up on its MAX speed this is going to be your most effective way of coming to a stop, also I should have re-coupled here. I'm not a big concept ship fanatic but this has significantly less missles than advertised sorry for you early backers. When designing my loadout I added 2 size three missiles in erkul. They have a 9,000km lock range and even with the herald being lit up like a Christmas tree it would have been capable stiking from outside of its detection range. But nope the missile racks are locked to the MSD 341s that hold 4 size 1s with terrible lock ranges and low damge output. Speeking of damage output... actually let me just stop there. Let's talk about how this ship can become relevant in 3.10.1 with minimal 
-game development needed. First and most importantly give us the ability to hack com arrays with this. They just added prisons now its time to add more ways to stay out of them. I can't take credit for this found this idea somewhere on redit. This would make the Herald more relevant to the current game state than the Mantis. Recently missiles got a nerf you can only launch one missile per pod rather than dumping your full load at once. So with this logic the Herald could now have 2 more size 3 missile racks with per silo and still 
-not be OP in my opinion. Also allow us to put whatever size 3 rack we want please. And finally come up with some way un lore that these massive engines can idle in some sort of low energy mode so we can get a respectful IR signature to match the stealthy ascetics of the ship. As for its other issues like handling, dps, and hull HP thats just balance and frankly fits the design of the ship. Even if we don't see these changes made when data running hits the PU this will 
-mostlikly be a viable ship with its 
+If you like to skip this RANT the time stamp is on screen. This is the only flight ready JPG ship. It has absolutely no use right now. I built a stealth loadout for it thinking It could be used to smuggle boxes or sneak up and cause a distraction but even with its super low EM OF 700ish its IR of over 6,000 makes it visible from space. This may be accurate considering its massive thruster but it does have a stealthy hull appearance.
+I've heard commenters say that ships handle like bricks and until this it was just a figure of speech. This actually does handle exactly like how I would expect a giant rocket propelled brick would fly. Look at this. I am not stroking my T-1600M I promise. And if you are considering taking it up on its MAX speed this is going to be your most effective way of coming to a stop, also I should have re-coupled here. I'm not normally one who gets mad at the difference between concept vs actual flight ready. But this has significantly less missiles than advertised sorry for you early backers. When designing my loadout I added 2 size three missiles in erkul. They have a 9,000km lock range and even with the herald being lit up like a Christmas tree it would have been capable striking from outside of its detection range. But nope the missile racks are locked to the MSD 341s that hold 4 size 1s with terrible lock ranges and low damage output. Speaking of damage output... actually let me just stop there. Let's talk about how this ship can become relevant in 3.10.1 with minimal
+game development needed. First and most importantly give us the ability to hack com arrays with this. They just added prisons now its time to add more ways to stay out of them. I can't take credit for this found this idea somewhere on Reddit. This would make the Herald more relevant to the current game state than the Mantis. Recently missiles got a nerf you can only launch one missile per pod rather than dumping your full load at once. So with this logic the Herald could now have 2 more size 3 missile racks with per silo and still
+not be OP in my opinion. Also allow us to put whatever size 3 rack we want please. And finally come up with some way un lore that these massive engines can idle in some sort of low energy mode so we can get a respectful IR signature to match the stealthy ascetics of the ship. As for its other issues like handling, DPS, and hull HP that's just balance and frankly fits the design of the ship. Even if we don't see these changes made when data running hits the PU this will
+mostlikely be a viable ship with its
 relatively low cost in the pledge store and in the game. Provided data running will be lucrative.
 
 ### Outro
