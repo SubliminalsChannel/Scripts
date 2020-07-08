@@ -7,8 +7,7 @@ I'm going to tell you everything you need to know before buying the Drake Herald
 ### Introduction
 Welcome to "A Star Citizen’s Buyer’s Guide" What's up Citizens, this is SubliminaL here and today we will be discussing the features, functions, and benefits of the Drake Herald or lack there of. And we’ll compare those features amongst competing ships, so you can make an informed buying decision. In this review, I’ll cover a brief overview, take a tour, compare stats, review pros and cons, and give you my thoughts on how CIG can make the Herald Great... for the first time. If you haven't seen it already after this review check out my loadout guide for the Drake Herald in the info card above, and on the end screen. Special thanks for all of the support from Patrons and Channel Members, it takes a while to make one of these and your support is appreciated. Enough with the formalities, let's get to it.
 
-*New citizens, can use my referral code on screen or the link in the description to reserve their 5000aUEC in the PU, no pledge necessary. *
-
+*New citizens, can use my referral code on screen or the link in the description to reserve their 5000aUEC in the PU, no pledge necessary.
 
 ### Overview
 The Herald is a data runner spacecraft sold by Drake Interplanetary. It is an unusually specialized design for Drake, focusing entirely on the process of securely storing, transmitting, and moving data as quickly as possible. The Herald is built with an armored computer core and an STA-M6A1 high power broadcast array that allows for long range transmission. They are used by a variety of corporations and by independent contractors who specialize in data running missions.
