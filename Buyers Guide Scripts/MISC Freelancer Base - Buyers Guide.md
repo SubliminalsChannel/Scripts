@@ -42,30 +42,32 @@ Now that we’ve taken a tour, let's see how it compares to other ships you migh
 * It has a decent combined missile payload of almost 32,000 | 6th Place
 * And the MISC Freelancer is available for sale in-game for almost 1,700,000aUEC | And takes the 6th spot.
 
-It's important to take notice that if you are comparing some of the larger cargo ships the freelancer access better in rankings in this example I have some light cargo ships that sku the performance rankings. The freelancer would certainly rank higher without these ships added to the list.
+It's important to take notice that compared to the starter cargo ships the freelancer is pretty slow. however if we were to compare it to ships of its size you'd see that its actually pretty nimble.
 
 ### Pros vs Cons
 Alright let's weigh some of the pros and cons
 ###### I would say its pros are, as far as metrics are concerned...
-* It fast as fuck! In one direction, that's forward.
-* And it has decent missile payload.
-* Now for some things we cant see on paper. It has room for some passengers and mission boxes in the cabin.
-* It has amenities like a bed to log out in, a weapon rack, and a toilet.
+* 66scu of cargo space is great for an intermediate trader. Perfect for maximizing illegal vice trade runs.
+* It has plenty of room for players.
+* It has a very large quantum fuel tank that if paired with the fastest size 2 drive can still make a trip from one end of stanton to the other without needing to refuel.
+* It has a decent amount of Hull HP
+* Having 4 always gimballed size 3 hardpoints is alot of firepower!
+* It's missile payload compared to light cargo ships is great.
+* Now for some things we cant see on paper. It has room for some passengers, mission boxes, anf land all at the same time.
+* I'm running out of room here and I'm not going to edit this template.
+* It has amenities like a beds to log out in, a toilet, shower, sink, food processor. Its purpose built for long range.
+* It has a Manned turret, great for experiencing, multi-crew gameplay
+* when degradation come in having all the components in one location makes for easy repairs
+* and if your considering this over a cutty black the freelancer has 2 shield generators where the cutlass has 1.
 
 ###### For cons, I'd say...
-* phhhh where do I begin. Its just my opinion but it should have a larger than basic hydrogen fuel tank. It seems like this ship should be long range.
-* I'm not sure how this is possible but the fastest ship in the game is also one of the slowest in every other direction than forward. Were talking Yaw, Pitch, and Roll. And don't get me started on retro thrust.
-* It has terrible Hull HP
-* About as much firepower as an aurora
-* I know i mentioned its missile payload as decent but its not even close to its concept. And to add insult to injury the missile racks can't be swapped out for ones that hold larger missiles.
+* Its SCM speedleed and Max speed are pretty slow
+* It can be pretty hard to stop.
+* Its view from the turret could be better it has a blind spot on top and straight ahead
+* And a common complaint is that the view from the cockpit is not very good.
 
 ### My Thoughts
-If you like to skip this RANT the time stamp is on screen. This is the only flight ready JPG ship. It has absolutely no use right now. I built a stealth loadout for it thinking It could be used to smuggle boxes or sneak up and cause a distraction but even with its super low EM OF 700ish its IR of over 6,000 makes it visible from space. This may be accurate considering its massive thruster but it does have a stealthy hull appearance.
-I've heard commenters say that ships handle like bricks and until this it was just a figure of speech. This actually does handle exactly like how I would expect a giant rocket propelled brick would fly. Look at this. I am not stroking my T-1600M I promise. And if you are considering taking it up on its MAX speed this is going to be your most effective way of coming to a stop, also I should have re-coupled here. I'm not normally one who gets mad at the difference between concept vs actual flight ready. But this has significantly less missiles than advertised sorry for you early backers. When designing my loadout I added 2 size three missiles in erkul. They have a 9,000km lock range and even with the herald being lit up like a Christmas tree it would have been capable striking from outside of its detection range. But nope the missile racks are locked to the MSD 341s that hold 4 size 1s with terrible lock ranges and low damage output. Speaking of damage output... actually let me just stop there. Let's talk about how this ship can become relevant in 3.10.1 with minimal
-game development needed. First and most importantly give us the ability to hack com arrays with this. They just added prisons now its time to add more ways to stay out of them. I can't take credit for this found this idea somewhere on Reddit. This would make the Freelancer more relevant to the current game state than the Mantis. Recently missiles got a nerf you can only launch one missile per pod rather than dumping your full load at once. So with this logic the Freelancer could now have 2 more size 3 missile racks with per silo and still
-not be OP in my opinion. Also allow us to put whatever size 3 rack we want please. And finally come up with some way un lore that these massive engines can idle in some sort of low energy mode so we can get a respectful IR signature to match the stealthy ascetics of the ship. As for its other issues like handling, DPS, and hull HP that's just balance and frankly fits the design of the ship. Even if we don't see these changes made when data running hits the PU this will
-mostlikely be a viable ship with its
-relatively low cost in the pledge store and in the game. Provided data running will be lucrative.
+What are my thoughts? I think the Freelancer is the best medium sized multi-role ship we have. It Excels at everything, PVE Combat,cargo hauling, multi-crew gameplay, long distance journeys, and taking land vehicles planet side. It's only con is its speed. And considering its is star citizens equivalence of a semi truck this is to be expected. 
 
 ### Outro
 Those are my thoughts, let me hear yours down in the comments. If you haven't already check out my loadout guide for the MISC Freelancer here? New citizens, use my referral link on screen or in the description to reserve your 5000aUEC in the persistent universe, no pledge necessary. If you enjoy my channel there are 6 ways to support it, #1 you can smash that like button. #2 you can share this content with someone who may enjoy it. #3 you can check out my "locations of Stanton" collection over at Displate #4 you can subscribe and turn on notifications by clicking the circle here. #5 you can become a channel member by clicking the join button below. And #6 if you're feeling generous, consider becoming a patron. Some Pledge perks can be seen here, Including desktop versions of my locations of stanton collection available to all patrons. If not your viewership is greatly appreciated. Until next time Citizens, I'll see you in the verse.
