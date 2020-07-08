@@ -5,7 +5,7 @@ most likely# MISC Freelancer
 I'm going to tell you everything you need to know before buying the MISC Freelancer and we’re starting right after this intro.
 
 ### Introduction
-Special thanks for all of the support from Patrons and Channel Members, it takes a while to make one of these and your support is appreciated. Welcome to "A Star Citizen’s Buyer’s Guide" What's up Citizens, this is SubliminaL here and today we will be discussing the features, functions, and benefits of the MISC Freelancer or lack there of. And we’ll compare those features amongst competing ships, so you can make an informed buying decision. Well actually for no you have it for free! In this review, I’ll cover a brief overview, take a tour, compare stats, review pros and cons, and give you my thoughts on the Freelancer. If you haven't seen it already after this review check out my loadout guide for the MISC Freelancer in the info card above, and on the end screen.  Enough with the formalities, let's get to it.
+Special thanks for all of the support from Patrons and Channel Members, it takes a while to make one of these and your support is appreciated. Welcome to "A Star Citizen’s Buyer’s Guide" What's up Citizens, this is SubliminaL here and today we will be discussing the features, functions, and benefits of the MISC Freelancer . And we’ll compare those features amongst competing ships, so you can make an informed buying decision. Well actually for no you have it for free! In this review, I’ll cover a brief overview, take a tour, compare stats, review pros and cons, and give you my thoughts on the Freelancer. If you haven't seen it already after this review check out my loadout guide for the MISC Freelancer in the info card above, and on the end screen.  Enough with the formalities, let's get to it.
 
 *New citizens, can use my referral code on screen or the link in the description to reserve their 5000aUEC in the PU, no pledge necessary.*
 
@@ -53,7 +53,7 @@ Alright let's weigh some of the pros and cons
 * It has a decent amount of Hull HP
 * Having 4 always gimballed size 3 hardpoints is alot of firepower!
 * It's missile payload compared to light cargo ships is great.
-* Now for some things we cant see on paper. It has room for some passengers, mission boxes, anf land all at the same time.
+* Now for some things we cant see on paper. It has room for some passengers, mission boxes, SCU, and land all at the same time.
 * I'm running out of room here and I'm not going to edit this template.
 * It has amenities like a beds to log out in, a toilet, shower, sink, food processor. Its purpose built for long range.
 * It has a Manned turret, great for experiencing, multi-crew gameplay
@@ -61,16 +61,16 @@ Alright let's weigh some of the pros and cons
 * and if your considering this over a cutty black the freelancer has 2 shield generators where the cutlass has 1.
 
 ###### For cons, I'd say...
-* Its SCM speedleed and Max speed are pretty slow
+* Its SCM speed and Max speed are pretty slow
 * It can be pretty hard to stop.
 * Its view from the turret could be better it has a blind spot on top and straight ahead
 * And a common complaint is that the view from the cockpit is not very good.
 
 ### My Thoughts
-What are my thoughts? I think the Freelancer is the best medium sized multi-role ship we have. It Excels at everything, PVE Combat,cargo hauling, multi-crew gameplay, long distance journeys, and taking land vehicles planet side. It's only con is its speed. And considering its is star citizens equivalence of a semi truck this is to be expected. 
+What are my thoughts? I think the Freelancer is the best medium sized multi-role ship we have. It Excels at everything, PVE Combat, medium cargo hauling, multi-crew gameplay, long distance journeys, and taking land vehicles planet side. It's only con is its speed. And considering its is star citizens equivalence of a semi truck this is to be expected. What I really like about the freelancer is its ability to excel at almost everything you can do in star citizen except mining. If you are a new or intermediate player you should be using this as your main ship. If your looking to upgrade to this over the cutlass. The choice isn't that simple. Both ships are great, when it comes down to it, do you want the nimbleness of the cutlass, or the tankyness of the freelancer. Either way you cant make a bad choice. Well the FREElancer is Free right now so there's no need to buy one at the moment. If I had to guess after 3.10 goes stable we will see this loaner fade. If you watching this after that. I prefer the Freelancer over the Cutlass But that's my opinion.
 
 ### Outro
-Those are my thoughts, let me hear yours down in the comments. If you haven't already check out my loadout guide for the MISC Freelancer here? New citizens, use my referral link on screen or in the description to reserve your 5000aUEC in the persistent universe, no pledge necessary. If you enjoy my channel there are 6 ways to support it, #1 you can smash that like button. #2 you can share this content with someone who may enjoy it. #3 you can check out my "locations of Stanton" collection over at Displate #4 you can subscribe and turn on notifications by clicking the circle here. #5 you can become a channel member by clicking the join button below. And #6 if you're feeling generous, consider becoming a patron. Some Pledge perks can be seen here, Including desktop versions of my locations of stanton collection available to all patrons. If not your viewership is greatly appreciated. Until next time Citizens, I'll see you in the verse.
+Those are my thoughts, let me hear yours down in the comments. If you haven't already make sure to check out my loadout guide for the Freelancer Here. I'm live on twitch right now, come hang. If you enjoy my channel there are 5 ways to support it, #1 you can smash that like button. #2 you can share this content with someone who may enjoy it. #3 you can check out my "locations of Stanton" collection over at Displate and in the Merch Store #4 you can subscribe and turn on notifications by clicking the circle here. And #5 if you're feeling generous, consider becoming a Channel Member or even better a Patron. Some Pledge perks can be seen here, Including desktop versions of my locations of Stanton collection available to all patrons and members. If not just sticking around until the end is greatly appreciated. Until next time Citizens, I'll see you in the verse.
 
 ### Tags
 A Star Citizens Ship Buyers Guide,MISC Freelancer,MISC Freelancer Review,MISC Freelancer Review Star Citizen,MISC Freelancer Star Citizen,Star Citizen MISC Freelancer,star citizen MISC Freelancer review,MISC Freelancer 3.9,MISC Freelancer tour,MISC Freelancer Walkthrough,MISC Freelancer renegade,ship tour,star citizen review,ship guide,star citizen,MISC,3.9, Star Citizen 3.9, Star Citizen 3.9, MISC Freelancer
