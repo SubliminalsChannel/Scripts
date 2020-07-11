@@ -37,3 +37,5 @@ Those are my loadout recommendations, let me hear yours down in the comments. My
 
 ### Tags
 A Star Citizens Loadout Guide,MISC Freelancer,MISC Freelancer Review,MISC Freelancer Loadout, Star Citizen,MISC Freelancer Star Citizen,Star Citizen MISC Freelancer,star citizen MISC Freelancer review,MISC Freelancer 3.9,MISC Freelancer tour,MISC Freelancer Walkthrough,MISC Freelancer ,ship tour,star citizen review,ship guide,star citizen,MISC,3.9, Star Citizen 3.9, Star Citizen 3.9, MISC Freelancer
+
+HIJACKED BY DP_Shenanigans!!! Kuwahahaha
