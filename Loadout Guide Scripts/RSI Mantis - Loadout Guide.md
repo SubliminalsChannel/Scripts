@@ -36,4 +36,10 @@ These recommendations are just that, my recommendations, and are not the best fo
 Those are my loadout recommendations, let me hear yours down in the comments. My full review of the RSI Mantis will be coming shortly so make sure you are subscribed and have the bell clicked. Don't for get Im live on twitch right now, come hang. If you enjoy my channel there are 5 ways to support it, #1 you can smash that like button. #2 you can share this content with someone who may enjoy it. #3 you can check out my "locations of Stanton" collection over at Displate and in the Merch Store #4 you can subscribe and turn on notifications by clicking the circle here. And #5 if you're feeling generous, consider becoming a Channel Member or even better a Patron. Some Pledge perks can be seen here, Including desktop versions of my locations of Stanton collection available to all patrons and members. If not just sticking around until the end is greatly appreciated. Until next time Citizens, I'll see you in the verse.
 
 ### Tags
+<<<<<<< HEAD
 A Star Citizens Loadout Guide,RSI Mantis,RSI Mantis Review,RSI Mantis Loadout, Star Citizen,RSI Mantis Star Citizen,Star Citizen RSI Mantis,star citizen RSI Mantis review,RSI Mantis 3.9,RSI Mantis tour,RSI Mantis Walkthrough,RSI Mantis ,ship tour,star citizen review,ship guide,star citizen,RSI,3.9, Star Citizen 3.9, Star Citizen 3.9, RSI Mantis
+=======
+A Star Citizens Loadout Guide,MISC Freelancer,MISC Freelancer Review,MISC Freelancer Loadout, Star Citizen,MISC Freelancer Star Citizen,Star Citizen MISC Freelancer,star citizen MISC Freelancer review,MISC Freelancer 3.9,MISC Freelancer tour,MISC Freelancer Walkthrough,MISC Freelancer ,ship tour,star citizen review,ship guide,star citizen,MISC,3.9, Star Citizen 3.9, Star Citizen 3.9, MISC Freelancer
+
+HIJACKED BY DP_Shenanigans!!! Kuwahahaha
+>>>>>>> 0d6d12003f4de1c2e4c63a90ef39212d225839fd
