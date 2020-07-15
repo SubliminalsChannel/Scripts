@@ -56,9 +56,10 @@ Alright let's weigh some of the pros and cons
 
 ###### For cons, I'd say...
 * Its SCM speed is pretty low. So even though its fast you will be over working it to get to those speeds. Well have to see how its effected in 3.10 and will full degradation is in.
+
 These next couple of things are cons but please note that they are to be expected for the singular focus of this ship. But still need to be mentioned.
 * With only 2 size three hardpoints you not going to want to be engaging the targets you snare.
-* 
+* It's also pretty fragile. So again avoid combat at all cost while your alone.
 
 ### My Thoughts
 What are my thoughts? I think the Mantis is the best medium sized multi-role ship we have. It Excels at everything, PVE Combat, medium cargo hauling, multi-crew gameplay, long distance journeys, and taking land vehicles planet side. It's only con is its speed. And considering its is star citizens equivalence of a semi truck this is to be expected. What I really like about the Mantis is its ability to excel at almost everything you can do in star citizen except mining. If you are a new or intermediate player you should be using this as your main ship. If your looking to upgrade to this over the cutlass. The choice isn't that simple. Both ships are great, when it comes down to it, do you want the nimbleness of the cutlass, or the tankyness of the Mantis. Either way you cant make a bad choice. Well the Mantis is Free right now so there's no need to buy one at the moment. If I had to guess after 3.10 goes stable we will see this loaner fade. If you watching this after that. I prefer the Mantis over the Cutlass But that's my opinion.
