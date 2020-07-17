@@ -5,7 +5,7 @@ Subscriber Time Stamp ► 0:00:49
 Erkul Loadout ► https://link.subliminalschannel.tv/MAKEMODELVARIANT
 
 # Buyer's Guide
-MAKE MODEL VARIANT Review - Welcome to another installment of #AStarCitizensBuyersGuide What's up Citizens, this is SubliminaL here, and today we will be discussing the features, functions, and benefits of the #MAKEMODELVARIANT with a comparison of how those features rank among competing ships. So you can make an informed buying decision.
+MAKE MODEL VARIANT Review - Welcome to another installment of #AStarCitizensBuyersGuide What's up Citizens, this is SubliminaL here, and today we will be discussing the features, functions, and benefits of the #MAKEMODELVARIANT with a comparison of how those features rank among competing ships. So you can make an informed buying decision in #StarCitizen
 
 Subscriber Time Stamp ► 0:01:05
 Skip Tour ► 0:05:05
