@@ -1,3 +1,8 @@
+# First Look
+Kruger P72 Archimedes Emerald - Welcome to another installment of #AStarCitizensFirstLook What's up Citizens, this is SubliminaL here and In this first look, we’ll take a quick tour of the #KrugerP72ArchimedesEmerald exterior, and interior. As well as see my first impressions during a flight test around Port Olisar and through the wind ridden atmosphere of New Babbage in the new 3.10 flight model.
+
+Subscriber Time Stamp ► 0:00:00
+
 # Loadout Guide
 MAKE MODEL VARIANT Loadout - Welcome to another installment of #AStarCitizensLoadoutGuide What's up Citizens, this is SubliminaL here, and In this guide we will discuss my recommendations for both weapons and components for your #MAKEMODELVARIANT in #StarCitizen
 
@@ -23,10 +28,10 @@ https://link.subliminalschannel.tv/PayPalDonate ► Donate via Paypal
 
 🏪🏪 Buy Channel Merch 🏪🏪
 https://link.subliminalschannel.tv/LocationsOfStanton ► My SC Collection on Displate
+https://link.subliminalschannel.tv/Merch ► Teespring Merch Store
 
 🚀🚀 Star Citizen Referral Link 🚀🚀
 https://link.subliminalschannel.tv/SCReferralCode ► Become a Star Citizen and get 5,000 FREE Credits
-https://link.subliminalschannel.tv/Merch ► Teespring Merch Store
 
 🔗🔗 Affiliate Links 🔗🔗
 https://www.amazon.com/shop/subliminal  ► My Amazon Storefront
