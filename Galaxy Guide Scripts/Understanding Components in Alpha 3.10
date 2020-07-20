@@ -8,7 +8,7 @@ Thanks to all the support from Patrons and Channel Members it takes a while to m
 Welcome to "A Star Citizen’s Guide to the Galaxy" What's up Citizens, this is SubliminaL here and In this guide we will be taking a quick look into the different metrics used to classify most of the components and weapons in star citizen. Understanding what components to equip on your ship can be daunting. In this guide I will try to explain my Understanding of Size, Grade, Class, EM, IR, and Draw Request Time that are unique to almost all components and weapons in star citizen. I may be completely wrong about some of the info in this guide and that's OK because we are all learning throughout our journey in Star Citizens Alpha that is constantly changing. Check the pinned comment for updated info. Enough with the formalities, let's get to it.
 
 ### Overview
-Let's talk briefly about some common metrics that all components have. Some of this information is copied from the wiki at over at starcitizen.tools
+Let's talk briefly about some common metrics that all components have. Some of this information is copied from the wiki at over at starcitizen.tools. The RSI website is not recommended as a source for current and updated information on ships, components, or weapons. I highly recommend Erkul.Games your up-to-date info that is gathered straight from the games data.
 
 ### Size
 The First is size. Component sizes range from 0 to 4.
@@ -33,14 +33,15 @@ Next we have the grade of a component, it can range from grade A to D. A Grade v
 Then we have a components class, this is something that is not fully fleshed out in the game's current state. There are five classes
 
 * Military - Has the best overall at that item’s functionality, at the expense of emissions and cost.
-* Civilian - Is the most common, with a wide range of behaviours to suit cost, options to approximate all * other categories but not as specific.
+* Civilian - Is the most common, with a wide range of behaviors to suit cost, options to approximate all * other categories but not as specific.
 * Stealth - Have vastly reduced signatures & consumption at the expense of functionality.
 * Industrial - Have reliably high output and low wear, with high emissions.
 * Competition - Has higher performing than military but at the expense of durability and stealth, performance over everything.
 
-A Components Class will be very important when degradation is implemented into the game.
+A Components Class will be very important when degradation is implemented into the game. In addition it has also been stated that Class will be limited to a ships hull. For example a racing ship like the M50 will be limited to Competition class components.
 
+### Stealth
 Next we have our stealth parameters Power to EM and Temperature to IR.
-Your Em signature is a measurement of your ship's Electromagnetic visibility. All components produce an Em signature and will broaden the distance that your ship will be visible to other ships' radar.
-IR Signature is a measurement of your ships Infrared visibility. The more heat your ship generates the higher your IR sig and just as EM the higher the number the further your ship will show up on another ship's radar.
-It's also important to know that the distance a ship is able to see is also dependent upon that ship's own radar. Larger ships can typically see further than smaller ships. Take a look at this example: this buccaneer has been completely shut off for a few minutes now but it's visible from my freelancer at more than 6,000 meters away. That's enough of stealth, well cover stealth more in a later video.
+* Your EM signature is a measurement of your ship's Electromagnetic visibility. All components and weapons produce an EM signature and will broaden the distance that your ship will be visible to other ships' radar.
+* IR Signature is a measurement of your ships Infrared visibility. The more heat your ship generates the higher your IR sig and just as EM the higher the number the further your ship will show up on another ship's radar.
+It's also important to know that the distance a ship is able to see you is also dependent upon the size of the detecting ship's own radar. For example Ships with size 2 scanners can detect whichever is greatest between your ships EM or IR with formula researched by Legacy Fleet. Taking the greater of the 2 values multiply it by .5 for size 1 radars and by .75 for larger radars. This will be your detection range in kilometers. That's enough of stealth, well cover stealth more in a later video.
