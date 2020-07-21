@@ -1,4 +1,4 @@
-most likely# MISC Freelancer
+# MISC Freelancer
 ## A Star Citizen's Buyer's Guide
 
 ### Preface
