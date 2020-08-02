@@ -1,5 +1,5 @@
 
-# Understanding weapons and components
+# Understanding Coolers
 ## Components Guide
 ### Preface
 We're gonna take an in depth look into coolers and we're starting right now.
