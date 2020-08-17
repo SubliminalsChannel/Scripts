@@ -35,7 +35,7 @@ https://link.subliminalschannel.tv/SCReferralCode ► Become a Star Citizen and 
 
 🔗🔗 Affiliate Links 🔗🔗
 https://www.amazon.com/shop/subliminal  ► My Amazon Storefront
-https://amzn.to/2CcK9Ly ► My Joysticks (Dual Joysticks)
+https://amzn.to/3kRgyZN ► My Joysticks (Dual Joysticks)
 
 ★★ Ways to Follow the Channel ★★
 Channel Discord ► https://link.subliminalschannel.tv/Discord
