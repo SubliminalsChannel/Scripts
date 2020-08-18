@@ -47,24 +47,27 @@ Now that we’ve taken a tour, let's see how it compares to other ships you migh
 ### Pros vs Cons
 Alright let's weigh some of the pros and cons
 ###### I would say its pros are, as far as metrics are concerned...
-* It's its very fast in regards to SCM and Max speed.
-* It's Nimble in regards to pitch, yaw, and roll
-* Its damage potential at range is great with its size 4 hardpoints. You can hit targets up to 4,000 meters away.
-* Now for some things we cant see on paper. Its stealth capabilities are great. I recorded an IR between 4,300 and 5,000 while maneuvering and firing as long as you don't use afterburner.
-* It's acceleration is great so much so that you don't need to use afterburner but when you do its even faster.
-* I also felt like it could space break "almost" to a complete stop without overheating.
+* Compared to most ship with this much firepower it is very small.
+* It has excellent acceleration and top speed.
+* Its one of the few ships with physical and energy reducing armor
+* The pilot weapon range potential is great due to its size 4 hardpoints. CF series repeaters can hit out to 4,000m
+* This kind of goes without being said but its turret DPS potential is out matched.
+* And overall for such a small ship it DPS is again out classed.
+* Now for some of my feelings and opinions. Its atmospheric flight speeds are off the charts. You can easily hit high 400s of possibly 500m/s in atomo.
+* And lastly Is only effective with 2 player pilots. I personally think we need more ships like this in the verse, that reward teamplay.
 
 ###### For cons, I'd say...
-* It doesn't have missiles. I'm actually OK with this but still think it should be mentioned.
-* Its view from the cockpit is pretty bad its hard to see around those dome struts.
-* It's surface area is terrible. It seems like the designers got together and said how can we make this ship catch every single bullet thrown its way. Well lets make it look like an open hand.
-* And I don't normally add this to pros and cons because value is relative, but the Hurricane certainly has its alien tax applied.
+* It has a low missile count. Although honestly considering its weapon firepower I'm ok with that.
+* It's not very nimble with a slow pitch, yaw, and roll.
+* It also requires a lot of power and cooling. Running my loadout I was pushing my JS-300 and Dual Zero Rushes to their limits.
+* Now for some major ones. That Hull HP... Look if you see your shields are anywhere near close to down, just get out of there.
+* And Lastly because some of you may not agree with my pro. One of its biggest cons is it requires a 2nd player. I would not recommend going out in this to fight solo.
 
 ### My Thoughts
-So what are my thoughts, well the Hurricane absolutely dominates the board when it comes to every speed metric. It's stealth capabilities should keep you up at night. I was able to create a build that if used properly would allow you to attack outside of the Hurricane's detection range. This is great for taking PVP bounties if done correctly. And Its fucking dope looking, have you see this thing change flight modes? All that being said its cons are pretty beefy, its cockpit view isn't great, its cool design makes it an easy target from almost all angles, and at $170 dollars US I can get a couple of great light fighters. And it really pains me to say this because I like this ship. So I'll just have to buy it in game.
+So what are my thoughts, I freaking love this ship. With the buffs added in 3.10 it makes this ship viable again. But also not OP. If the pilot and turret gunner aren't coordinated, you will fail, there isn't much margin of error with such low HP. But once you reach that synergy, taking down opponents is a blast. The whole idea of this ship, just brings me joy. Frankly it takes time for 2 people to get coordinated in this game. Hey man you want to fly around in my hurricane and wreck shit up. Sure, Subliminal. Ok where you at? Area 18 Well I'm at MicroTech. Ok meet half way? Sure well meet at a rest stop. "A Few Moments Later" Where you at bro you rockin' that agonizing Agni QT drive or something? I'm almost there calm down. Sorry I cant see your pip. Ok I'm here. What pad you landing on? I don't know there are no numbers. Alright ill play elevator roullett then. That's the wrong one man, but your close. Fuck it ill just EVA over. Ok lets fly to Hurston and pick up some bounties. I'm down lets go. Alright lets see what bounties we got. I don't have any, shit I haven't done my pro tiem yet have you? No I haven't either. Fuck, alright Lets do it. Where is yours? Near Crusader. Damnit. Alright lets head over there. FUCK!!! Anybody who has the patience to get through that shit is deserves a slight advantage. I sincerely hope the Turret on the Hurricane NEVER gets slaved to the pilot like the hornet. It would be way too much DPS and frankly ruin a really fun style of gameplay. If you're a lone wolf you cant be effective in this ship, just like you couldn't be effective if you hopped into a hammerhead by yourself. We need one more small size ships like this in the verse.
 
 ### Outro
-Those are my thoughts, let me hear yours down in the comments. If you haven't already make sure to check out my loadout guide for the Hurricane Here. Don't forget Im live on twitch right now, like RIGHT NOW, come hangout. If you enjoy my channel there are 5 ways to support it, #1 you can smash that like button. #2 you can share this content with someone who may enjoy it. #3 you can check out my "locations of Stanton" collection over at Displate and in the Merch Store #4 you can subscribe and turn on notifications by clicking the circle here. And #5 if you're feeling generous, consider becoming a Channel Member or even better a Patron. Some Pledge perks can be seen here, Including desktop veAnvilons of my locations of Stanton collection available to all patrons and members. If not just sticking around until the end is greatly appreciated. Until next time Citizens, I'll see you in the verse.
+That was my rant, let me hear yours down in the comments. If you haven't already make sure to check out my loadout guide for the Hurricane Here. Don't forget I'm live on twitch right now, like RIGHT NOW, come hangout we'll me discussing my loadout for the Anvil Hawk. If you enjoy my channel there are 6 ways to support it, #1 you can smash that like button. #2 you can share this content with someone who may enjoy it. #3 you can check out my "locations of Stanton" collection over at Displate and in the Merch Store #4 You can follow me on Twitch I go live after almost every YouTube release, Twitch Prime Subs help support the channel #5 you can subscribe and turn on notifications by clicking the circle here. And #6 if you're feeling generous, consider becoming a Channel Member or even better a Patron. Some Pledge perks can be seen here, Including desktop versions of my Vessels of the Verse collection available to all patrons and members. If not just sticking around until the end is greatly appreciated. Until next time Citizens, I'll see you in the verse.
 
 ### Tags
 A Star Citizens Ship Buyers Guide,Anvil Hurricane,Anvil Hurricane Review,Anvil Hurricane Review Star Citizen,Anvil Hurricane Star Citizen,Star Citizen Anvil Hurricane,star citizen Anvil Hurricane review,Anvil Hurricane 3.9,Anvil Hurricane tour,Anvil Hurricane Walkthrough,Anvil Hurricane renegade,ship tour,star citizen review,ship guide,star citizen,Anvil,3.9, Star Citizen 3.9, Star Citizen 3.9, Anvil Hurricane
