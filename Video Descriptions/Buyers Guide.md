@@ -27,7 +27,7 @@ https://link.subliminalschannel.tv/StreamElementsTip ► Tip via StreamElements
 https://link.subliminalschannel.tv/PayPalDonate ► Donate via Paypal
 
 🏪🏪 Buy Channel Merch 🏪🏪
-https://link.subliminalschannel.tv/LocationsOfStanton ► My SC Collection on Displate
+https://link.subliminalschannel.tv/Displate ► My SC Collections on Displate - VotV & SoS
 https://link.subliminalschannel.tv/Merch ► Teespring Merch Store
 
 🚀🚀 Star Citizen Referral Link 🚀🚀
@@ -43,6 +43,9 @@ Watch me Live on Twitch ► https://link.subliminalschannel.tv/Twitch
 Follow me on Twitter ► https://link.subliminalschannel.tv/Twitter
 Instagram ► https://link.subliminalschannel.tv/Instagram
 Facebook Page ► https://www.facebook.com/SubliminaLsChannel/
+
+Data Sources
+#DPS Calculator - https://Erkul.Games
 
 ♛♛ My Organization Interplanetary MultiCorp ♛♛
 Apply Now! https://robertsspaceindustries.com/orgs/IMCG
