@@ -5,7 +5,7 @@
 I'm going to tell you everything you need to know before buying the Anvil Gladiator and we’re starting right now.
 
 ### Introduction
-Thank you so much for all of the support from Patrons and Channel Members. Welcome to "A Star Citizen’s Buyer’s Guide" this is SubliminaL here and today we'll be discussing the features, functions, and benefits of the Anvil Gladiator. We'll cover a brief overview, take a tour, compare stats with similar ships, review pros and cons, and I'll give you my thoughts on the Gladiator. If you haven't seen it, my Loadout Guide for the Anvil Gladiator can be found here, and on the end screen. I go live on Twitch just before every YouTube release come and hang out. Enough with the formalities, let's get to it.
+Thank you so much for all of the support from Patrons, Channel Members, and Twitch Subscribers. Welcome to "A Star Citizen’s Buyer’s Guide" this is SubliminaL here and today we'll be discussing the features, functions, and benefits of the Anvil Gladiator. We'll cover a brief overview, take a tour, compare stats with similar ships, review pros and cons, and I'll give you my thoughts on the Gladiator. If you haven't seen it, my Loadout Guide for the Anvil Gladiator can be found here, and on the end screen. I go live on Twitch just before every YouTube release come and hang out. Enough with the formalities, let's get to it.
 
 *New citizens, can use my referral code on screen or the link in the description to reserve their 5000aUEC in the PU, no pledge necessary.*
 
@@ -23,7 +23,7 @@ If you'd like to skip this tour the time stamp is on screen and in the descripti
 Let's climb inside the cockpit first. Similar to a lot of anvil ships the cockpit extends the pilot seat down to pick up the pilot. Inside we have the now standard building blocks UI HUD. Above this we have annunciator panels, and below those we have a 3d radar. Further down we have 6 MFDs. The Gladiator does have an ejection feature. Lets take a look at the turret seat. It also extends from the same opening as the pilots, and is technically visible behind the cockpit. The turret gunner has access to 4 MFDs and a 2D radar. It Also doesn't seem to have an ejection feature. It does however have some of the best visibility I've seen from a turret on a ship.
 
 ### Comparison
-Now that we’ve taken a tour, let's see how it compares to other ships you might be considering. For comparison, I have selected 10 ships, alot of light fighters, some bounty hunting, and some popular EMP ships. The Google Sheet Document with this data is linked in the description.
+Now that we’ve taken a tour, let's see how it compares to other ships you might be considering. For comparison, I have selected 10 ships, Some missile Boats, some multi crew ships, and some bombers. The Google Sheet Document with this data is linked in the description.
 
 * The Anvil Gladiator weighs in at over 87,000kg | 5th Place
 * It fits in at 22.5m in length | Ties in 4th Place
