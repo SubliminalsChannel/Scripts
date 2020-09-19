@@ -18,17 +18,19 @@ Google Docs Comparison ► https://link.subliminalschannel.tv/SHIPNAMEHERE
 
 # Universal
 🆓🆓 FREEEEE 🆓🆓
-FREE!!! LoS Mobile Wallpapers ► https://link.subliminalschannel.tv/Imgur
+SoS Mobile Wallpapers ► https://link.subliminalschannel.tv/ScenesofStantonMobileSoS
+VotV Mobile Wallpapers ► https://link.subliminalschannel.tv/VesselsoftheVerseMobile
 
 ♥♥♥ Consider Supporting my Channel ♥♥♥
 https://link.subliminalschannel.tv/Patreon ► Support the Channel become a Patron!
 https://link.subliminalschannel.tv/Join ► Join Channel! Become Channel Member
+https://www.twitch.tv/subliminalschannel ► Consider Subscribing on Twitch (Prime Subs Welcome)
 https://link.subliminalschannel.tv/StreamElementsTip ► Tip via StreamElements
 https://link.subliminalschannel.tv/PayPalDonate ► Donate via Paypal
 
 🏪🏪 Buy Channel Merch 🏪🏪
 https://link.subliminalschannel.tv/Displate ► My SC Collections on Displate - VotV & SoS
-https://link.subliminalschannel.tv/Merch ► Teespring Merch Store
+https://link.subliminalschannel.tv/Merch ► Teespring Merch Store (Canvases, Posters & More)
 
 🚀🚀 Star Citizen Referral Link 🚀🚀
 https://link.subliminalschannel.tv/SCReferralCode ► Become a Star Citizen and get 5,000 FREE Credits
