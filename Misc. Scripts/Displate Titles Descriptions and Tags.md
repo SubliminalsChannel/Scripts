@@ -1,8 +1,8 @@
 ### Title
-Aegis Vanguard Hoplite
+Aegis Vanguard Sentinel
 
 ### Description
-Minimalist Illustration of the Aegis Vanguard Hoplite from the Robert Space Industries game Star Citizen.
+Minimalist Illustration of the Aegis Vanguard Sentinel from the Robert Space Industries game Star Citizen.
 
 ### Tags
-StarCitizen RobertSpaceIndustries Aegis Vanguard Hoplite SubliminalsChannel VesselsoftheVerse Spaceship
+StarCitizen RobertSpaceIndustries Aegis Vanguard Sentinel SubliminalsChannel VesselsoftheVerse Spaceship AegisVangaurdSentinel

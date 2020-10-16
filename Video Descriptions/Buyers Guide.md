@@ -18,8 +18,7 @@ Google Docs Comparison ► https://link.subliminalschannel.tv/SHIPNAMEHERE
 
 # Universal
 🆓🆓 FREEEEE 🆓🆓
-SoS Mobile Wallpapers ► https://link.subliminalschannel.tv/ScenesofStantonMobileSoS
-VotV Mobile Wallpapers ► https://link.subliminalschannel.tv/VesselsoftheVerseMobile
+SoS & VotV Mobile Wallpapers ► https://subliminalschannel.tv/Wallpapers
 
 ♥♥♥ Consider Supporting my Channel ♥♥♥
 https://link.subliminalschannel.tv/Patreon ► Support the Channel become a Patron!
