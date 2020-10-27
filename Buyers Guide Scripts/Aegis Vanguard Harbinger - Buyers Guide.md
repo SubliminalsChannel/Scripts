@@ -1,4 +1,4 @@
-# Aegis Vanguard Harbinger
+# Aegis Vanguard Harbinger 2
 ## A Star Citizen's Buyer's Guide
 
 ### Preface
