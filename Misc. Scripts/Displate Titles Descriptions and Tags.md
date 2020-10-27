@@ -1,8 +1,8 @@
 ### Title
-Aegis Vanguard Sentinel
+Anvil Carrack Expedition
 
 ### Description
-Minimalist Illustration of the Aegis Vanguard Sentinel from the Robert Space Industries game Star Citizen.
+Minimalist Illustration of the Anvil Carrack Expedition from the Robert Space Industries game Star Citizen.
 
 ### Tags
-StarCitizen RobertSpaceIndustries Aegis Vanguard Sentinel SubliminalsChannel VesselsoftheVerse Spaceship AegisVangaurdSentinel
+StarCitizen RobertSpaceIndustries Anvil Carrack Expedition SubliminalsChannel VesselsoftheVerse Spaceship AnvilCarrackExpedition
