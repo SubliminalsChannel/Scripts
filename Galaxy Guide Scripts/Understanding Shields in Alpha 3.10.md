@@ -18,5 +18,5 @@ Now for Damaged Regen Delay, this is the ammount of time in seconds that the reg
 #### Downed Regen Delay
 Downed Regen delay is exactly the same as Damaged except of course it only applies if your shield facing gets downed completely. This is typlically a much longer duration than the damaged delay. By design this punishes players for allowing a shield facing to get completely downed. As you can see here with my shield facing down the FR-66 takes just 5 and a half seconds to start to regen after being downed completely.
 #### Physical Absorbtion minimum & maximum
-Now for one of my favorite shield properties, physical Absorbtion minimum and maximum. This is the minimum or maximum ammount of physical damage or (Ballistic fire) that a shield can deflect. This means that regardless of shield health 
+Now for one of my favorite shield properties, physical Absorbtion minimum and maximum. This is the minimum or maximum amount of physical damage or (Ballistic fire) that a shield can deflect. This means that regardless of your FR-66s health pool it can only deflect up to 50% of its damage. And of course at the same time it could deflect up to 95% of the rounds damage. This is why we see ballistics being used so much in pvp 
 
