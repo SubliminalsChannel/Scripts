@@ -36,3 +36,16 @@ Now for one of the most important, misunderstood, and overlooked metric of shiel
 
 #### Power to EM & Temperature to IR
 And the last of the metrics from the DPS Calculator, Power to EM & Temperature to IR. I'm not sure exactly how the numbers here correlate to the values we see on our HUDS but these are pretty straight forward, the higher the number The less stealthy you are in these 2 categories. While I will cover stealth more in a dedicated video later, I will tell you that your shields will make or break a stealth build because they produce much of your emissions overall, especially if they are charging. What you've been seeing is the IR of a Sabre with a dedicated stealth build. Now here is a Sabre with triple FR-66s and Dual JS-300s. That's a big difference. That extra NUMBER IR would add up to an extra NUMBER meters to your detection range. Check out my stealth calculator, to determine your detection range in the verse.
+
+### Overclocking shields
+Overclocking your shields is somthing that everyone says you should do but why? What does it do? Well lets first briefly discuss how you do it for those of us that dont know. To overclock any components pull open your power menu and open the items tab. Here you'll see a bunch of different items you can overclock in this example we are sporting 2 SlipStreams. To overclock simply click the overclock button. This process will take just a few seconds. It is also reccomended that you overclock your power plants as well so we don't have power draw issues. Now what does this actually do, lets find out? In this test we'll have the Sabre take shots from some distortion repeaters but not enough to take the facing down completely. The clips will disapear once the shields have completely regenerated. RESULTS
+And for this next test we will do the same thing but allow our shield facing to be powered down completely. RESULTS
+DISCUSSION
+
+### Other Components & shields
+Now lets discuss how other components effect our shields. For these tests we'll have our shield facing taken down completely and I'll remove the clip at the frame that shows 100%. First we'll test Coolers. I've chosen to test UltraFlows with the highest output vs my favorite the stealth class ZERORUSHES with significantly less cooling rate. RESULTS
+DISCUSSION
+Now lets try Power Plants. We will be doing testing the same as befpre but this time we'll include overclocking in the results. Again ive chosen power plants with polar oposite power draws. The Imdustrial Class Breton and my favorite the Stralth Class SlipStreams. First we'll test stock. RESULTS
+DISCUSSION
+And next we'll try it with them OverClocked. RESULTS
+DISCUSSION
