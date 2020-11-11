@@ -1,11 +1,12 @@
 # Understanding Shields in Alpha 3.11
 ## A Star Citizen's Guide to the Galaxy
 
+# Episode 1
 ### Preface
-I'm going to tell you everything you need to know about shields in Alpha 3.11 and we’re starting right now.
+I'm going to tell you almost everything you need to know about shields in Alpha 3.11 and we’re starting right now.
 
 ### Introduction
-Thank you so much for all of the support from Patrons, Channel Members, and Twitch Subscribers that make this possible. Welcome to "A Star Citizen’s Guide to the Galaxy" this is SubliminaL here and today, We're going to take a deep dive into shield generators. We'll discuss and demonstrate everything from, how power plants and coolers effect shields, How overclocking changes shields, as well as what every one of these tabs on erkul mean, and how it effects your shields. Plus we'll answer some questions and bust myths that some of our viewers on Twitch had. I may be completely wrong about some of the info in this guide and that's OK because we are all learning throughout our journey in Star Citizens Alpha that is constantly changing. The pinned comment will be used to ensure accuracy. This is Part 4 of a series that will cover each archetype of component and weapon in depth. So Make sure your subscribed and have the bell clicked for more. Enough with the formalities, let's get to it.
+Thank you so much for all of the support from Patrons, Channel Members, and Twitch Subscribers that make this possible. Welcome to "A Star Citizen’s Guide to the Galaxy" this is SubliminaL here and today, We're going to take a deep dive into shield generators. So deep in-fact this was going to be an over 20min video but I have decided to cut it in half. In this Episode We'll discuss and demonstrate every shield metric listed on erkul. Tomorrow, Episode 2 will answer some common questions like, what does overclocking shields do?, How do power plants and coolers effect shields, how do different damage types effect your shields and ship, and I'll also give you my recommendation for what shields you should be using in sizes 1, 2, and 3. Also Episode 1 and 2 are Part 4 of a series that covers each archetype of component and weapon in depth. So Make sure your subscribed and have the bell clicked for more. Enough with the formalities, let's get to it.
 
 ### Erkul Tabs
 Lets get straight into those tabs on erkul and what they mean. For our Example we'll be using the FR-66, and work our way from left to right.
@@ -36,6 +37,16 @@ Now for one of the most important, misunderstood, and overlooked metric of shiel
 
 #### Power to EM & Temperature to IR
 And the last of the metrics from the DPS Calculator, Power to EM & Temperature to IR. I'm not sure exactly how the numbers here correlate to the values we see on our HUDS but these are pretty straight forward, the higher the number The less stealthy you are in these 2 categories. While I will cover stealth more in a dedicated video later, I will tell you that your shields will make or break a stealth build because they produce much of your emissions overall, especially if they are charging. What you've been seeing are the EM/IR of a Sabre equipped with a dedicated stealth build, its highest emissions are its IR at around 5900. Now here is a Sabre with triple FR-66s with the higher of its emissions its EM at 8300. That's a huge difference. That extra 2,400 in emissions would add between 1,500 to 2,200 meters to your detection range. And the only differences between these builds are the shields. Check out my stealth calculator, to determine your detection range in the verse.
+
+### Outro
+What did you guys think of this guide? Did you learn something? Was their something I missed? Let me know in the comments below. Remember to stay tuned for Episode 2 where I will answer and demonstrate some common shield questions.
+
+# Episode 2
+### Preface
+I'm going to tell you everything else you need to know about shields in Alpha 3.11 and we’re starting right now.
+
+### Introduction
+Lets just get right into it. This is episode 2 of my shield guide. If you haven't seen episode 1 it is a major pre-requisite to this because I cover all of the metrics from the DPS calculator. If you haven't, it can be found by clicking the info button here. In this guide we will answer some common questions like, what does overclocking shields do?, How do power plants and coolers effect shields?, how do different damage types effect your shields and ship?, how is ballistic absorption really work?, and I'll also give you my recommendation for what shields you should be using in sizes 1, 2, and 3. Also Episode 1 and 2 are Part 4 of a series that covers each archetype of component and weapon in depth. So Make sure your subscribed and have the bell clicked for more. Enough with the formalities, let's get to it.
 
 ### Overclocking shields
 Overclocking your shields is something that everyone says you should do but why? What does it do? Well lets first briefly discuss how you do it for those of us that don't know. To overclock any components pull open your power menu and open the items tab. Here you'll see a bunch of different items you can overclock in this example we are sporting 2 SlipStreams. To overclock simply click the overclock button. This process will take just a few seconds. It is also recommended that you overclock your power plants as well so we don't have power draw issues. Now what does this actually do, lets find out? In this test we'll have the Sabre take One shot from a distortion canon. The clips will disappear once the shields have completely regenerated. The first thing we notice is that we took the same 13% hit, so overclocking doesn't make your shields stronger as I expected. Lets see how long they take to regen. That had about a 5 frame difference. But it was only 1 shot, for this next test we will do the same thing but allow our shield facing to be powered down completely. Elevator Music... Conclusion: That was bout 8 seconds... Yeah if you haven't been overclocking... well... you've been playing wrong.
