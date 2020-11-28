@@ -2,7 +2,7 @@
 ## A Star Citizen's First Look
 
 ### Preface
-I'm going to give you a First Look of the newly reworked 2950 Origin M50 and were starting right now.
+I'm going to give you a First Look at the highly anticipated Crusader Industries Mercury StarRunner and were starting right now.
 
 ### Introduction
 Thanks to all the support from Patrons and Cannel Members it takes a while to make one of these and your support is appreciated. Welcome to A Star Citizen's "First Look" What's up Citizens, this is SubliminaL here and In this first look, we’ll take a quick tour of the M50s exterior, and interior. As well as see my first impressions during a flight test around Port Olisar and through the wind ridden atmosphere of Lorville in the new 3.10 flight model, I'm live on twitch right now come hangout! Enough with the formalities, Let's take a first look at the Origin M50.
