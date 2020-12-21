@@ -5,7 +5,7 @@
 I'm going to give you my recommendations on how to loadout your Esperia Talon, and we're starting right now.
 
 ### Introduction
-Thank you so much for all of the support from Patrons, Channel Members, and Twitch Subscribers that make this possible. Welcome to "A Star Citizen’s Loadout Guide" What's up Citizens, this is SubliminaL here and In this guide we will discuss my recommendations for both weapons and components for your Esperia Talon, our primary build will be a mostly stealth PVE and PVP fighter. rew one that will excel at PVE and PVP if necessary. My loadout guide for the talon shrike and buyers guides for Each them  full review of the Talon will be coming soon so make sure your subscribed and have the bell clicked. Enough with the formalities, let's get to it.
+Thank you so much for all of the support from Patrons, Channel Members, and Twitch Subscribers that make this possible. Welcome to "A Star Citizen’s Loadout Guide" What's up Citizens, this is SubliminaL here and In this guide we will discuss my recommendations for both weapons and components for your Esperia Talon, our primary build will be a mostly stealth PVE and PVP fighter. rew one that will excel at PVE and PVP if necessary. My loadout guide for the talon shrike and buyers guides for Each them will be coming soon so make sure your subscribed and have the bell clicked. Enough with the formalities, let's get to it.
 
 ### Overview
 The Talon is a courier ship by Esperia that is focused on quickly and discreetly delivering small payloads of goods or data. And today were going to load it out to excel at that as well as anything else that may happen in the verse. I'll also briefly cover stealth as well.
