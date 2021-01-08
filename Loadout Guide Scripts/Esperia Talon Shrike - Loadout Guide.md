@@ -45,6 +45,6 @@ I hope you enjoyed my loadout guide of the Talon Shrike, I'd love to hear about 
 A Star Citizens Loadout Guide,Esperia Talon,Esperia Talon Review,Esperia Talon Loadout, Star Citizen,Esperia Talon Star Citizen,Star Citizen Esperia Talon,star citizen Esperia Talon review,Esperia Talon 3.10,Esperia Talon tour,Esperia Talon Walkthrough,Esperia Talon ,ship tour,star citizen review,ship guide,star citizen,Crusader ,3.11, Star Citizen 3.11, Star Citizen 3.11, Esperia Talon
 
 ### description
-Esperia Talon Loadout - Welcome to another installment of #AStarCitizensLoadoutGuide What's up Citizens, this is SubliminaL here, and In this guide we will discuss my recommendations for both weapons and components for your #EsperiaTalon in #StarCitizen
+Esperia Talon Shrike Loadout - Welcome to another installment of #AStarCitizensLoadoutGuide What's up Citizens, this is SubliminaL here, and In this guide we will discuss my recommendations for both weapons and components for your #EsperiaTalonShrike in #StarCitizen
 
 Erkul Loadout ► https://link.subliminalschannel.tv/MercuryStarRunnerLoadout
