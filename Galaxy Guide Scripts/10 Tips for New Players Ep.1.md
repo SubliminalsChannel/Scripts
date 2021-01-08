@@ -39,11 +39,11 @@ First we'll tap R for Flight ready. This will power on our Engines, weapons, shi
 
 ### Scroll Wheel to adjust speed limiter.
 
-For the purposes of this video I'll just briefly show you how to land. For this head toward the marker on you HUD that looks like a circle with a down arrow in it. As you approach the space station make sure you use my eighth tip and that's to limit your speed by reducing your speed limiter. This can be done by scrolling down with middle mouse button. I'd recommend bringing this down to this white line if your new to this. This line is your SCM speed, we may go over this more in a later video. If you are in a ship with quick forward acceleration you may want to limit this further. This ship is actually pretty slow so I'll stay above the SCM Speed. Bring yourself over your designated pad and if your within the blue box tap N to deploy your landing gear. Once this is done Hold N again to start the automated landing procedures. So now you've 
+For the purposes of this video I'll just briefly show you how to land. For this head toward the marker on you HUD that looks like a circle with a down arrow in it. As you approach the space station make sure you use my eighth tip and that's to limit your speed by reducing your speed limiter. This can be done by scrolling down with middle mouse button. I'd recommend bringing this down to this white line if your new to this. This line is your SCM speed, we may go over this more in a later video. If you are in a ship with quick forward acceleration you may want to limit this further. This ship is actually pretty slow so I'll stay above the SCM Speed. Bring yourself over your designated pad and if your within the blue box tap N to deploy your landing gear. Once this is done Hold N again to start the automated landing procedures. Space stations are great, settimg your spawn here ensures that if you die you don't have to ride three elevators and a train to get back to your ship. I'd encourage you to explore this space station. Some stations habve stores that sell armou and weapoms for tour character, weapoks and compoments for your ship, food vendors, refinery decks, and cargo decks.
 
 ### F2 for StarMap
 
-
+All of this is again boyond the scope of this guide. For now I encourage you to do some missions found in yoir mobiglas. For this you'll need to tap F1
 
 ### Double Tapping Right Mouse in StarMap
 
